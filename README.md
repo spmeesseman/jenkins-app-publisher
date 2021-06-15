@@ -1,4 +1,4 @@
-# Jenkins MantisBT Plugin
+# Jenkins App Publisher Utility
 
 [![authors](https://img.shields.io/badge/authors-scott%20meesseman-6F02B5.svg?logo=visual%20studio%20code)](https://www.littlesm.com)
 [![app-category](https://img.shields.io/badge/category-jenkins%20plugins-blue.svg)](https://github.com/spmeesseman/jenkins-app-publisher)
@@ -11,7 +11,7 @@
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/spmeesseman/jenkins%2dmantisbt%2dplugin.svg?logo=github)](https://github.com/spmeesseman/jenkins-app-publisher/pulls)
 [![GitHub last commit](https://img.shields.io/github/last-commit/spmeesseman/jenkins%2dmantisbt%2dplugin.svg?logo=github)](https://github.com/spmeesseman/jenkins-app-publisher)
 
-- [Jenkins MantisBT Plugin](#jenkins-mantisbt-plugin)
+- [Jenkins App Publisher Utility](#jenkins-app-publisher-utility)
   - [Introduction](#introduction)
   - [Getting Started](#getting-started)
   - [Global Configuration](#global-configuration)
